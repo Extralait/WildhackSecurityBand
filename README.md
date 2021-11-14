@@ -2,10 +2,9 @@
 
 ## Установка
 
-```
 Скачайте все данные из гугл диска
 https://drive.google.com/drive/folders/1uvwWRavPbnwP2YPRxrfBxoTSnmK7yuyc?usp=sharing
-```
+
 ```
 Создайте папку data в папке Back/Parser и перенесите в нее все данные с гугл диска
 ```
